@@ -1,0 +1,7 @@
+#Create project using Expo
+npx create-expo-app grocify
+
+#Go into project folder
+
+#intialize init
+git init
